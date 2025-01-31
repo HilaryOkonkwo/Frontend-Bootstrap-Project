@@ -69,7 +69,7 @@ cd nnewi-tech-canteen-menu
 
 ## Project Structure
 
-📁 frontend-bootcamp
+📁 Frontend-Bootstrap-Project
 
  ├── 📁 img (Project assets)
 

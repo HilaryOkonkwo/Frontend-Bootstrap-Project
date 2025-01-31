@@ -70,12 +70,13 @@ cd nnewi-tech-canteen-menu
 ## Project Structure
 
 📁 frontend-bootcamp
+
  ├── 📁 img (Project assets)
 
  ├── 📄 index.html
 
  ├── 📄 README.md
- 
+
  └── styles.css(custom styles)
 
 ## Contribution

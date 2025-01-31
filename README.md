@@ -44,14 +44,14 @@ Before you begin, ensure you have the following installed:
 ## Deployment
 The project is deployed on Vercel, a platform known for its fast and easy deployment of front-end projects.
 
-Live Demo:
+Live Demo:https://frontend-bootstrap-project-ten.vercel.app/
 
 ## Installation $ Setup
 To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https:
+git clone https://github.com/HilaryOkonkwo/Frontend-Bootstrap-Project.git
 
 2. Navigate into the project folder:
 
@@ -71,8 +71,11 @@ cd nnewi-tech-canteen-menu
 
 📁 frontend-bootcamp
  ├── 📁 img (Project assets)
+
  ├── 📄 index.html
+
  ├── 📄 README.md
+ 
  └── styles.css(custom styles)
 
 ## Contribution
